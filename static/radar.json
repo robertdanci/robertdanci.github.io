@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Java",
+    "ring": "Master",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Python",
+    "ring": "Journeyman",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "SQL",
+    "ring": "Journeyman",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Javascript",
+    "ring": "Apprentice",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Spring Boot",
+    "ring": "Master",
+    "quadrant": "frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Redis",
+    "ring": "Journeyman",
+    "quadrant": "storage and messaging",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Kanban",
+    "ring": "Master",
+    "quadrant": "practices",
+    "isNew": "FALSE",
+    "description": ""
+  }
+]
