@@ -28,9 +28,9 @@
     "description": ""
   },
   {
-    "name": "Spring Boot",
+    "name": "Spring",
     "ring": "Master",
-    "quadrant": "frameworks",
+    "quadrant": "frameworks and tools",
     "isNew": "FALSE",
     "description": ""
   },
@@ -45,6 +45,181 @@
     "name": "Kanban",
     "ring": "Master",
     "quadrant": "practices",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Agile",
+    "ring": "Master",
+    "quadrant": "practices",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Lean",
+    "ring": "Apprentice",
+    "quadrant": "practices",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "TDD",
+    "ring": "Journeyman",
+    "quadrant": "practices",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "BDD",
+    "ring": "Journeyman",
+    "quadrant": "practices",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Clean Code",
+    "ring": "Master",
+    "quadrant": "practices",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "DDD",
+    "ring": "Apprentice",
+    "quadrant": "practices",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Microservices",
+    "ring": "Journeyman",
+    "quadrant": "practices",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Kafka",
+    "ring": "Journeyman",
+    "quadrant": "storage and messaging",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "PostgreSQL",
+    "ring": "Journeyman",
+    "quadrant": "storage and messaging",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "React",
+    "ring": "Apprentice",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "JUnit",
+    "ring": "Master",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Mockito",
+    "ring": "Master",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "FastAPI",
+    "ring": "Apprentice",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Flyway",
+    "ring": "Journeyman",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Wiremock",
+    "ring": "Journeyman",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Kubernetes",
+    "ring": "Apprentice",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Docker",
+    "ring": "Journeyman",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "AWS",
+    "ring": "Journeyman",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Terraform",
+    "ring": "Apprentice",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "ElasticSearch",
+    "ring": "Apprentice",
+    "quadrant": "storage and messaging",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "MongoDB",
+    "ring": "Apprentice",
+    "quadrant": "storage and messaging",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Typescript",
+    "ring": "Apprentice",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Bash",
+    "ring": "Apprentice",
+    "quadrant": "languages",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Hibernate",
+    "ring": "Apprentice",
+    "quadrant": "frameworks and tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "jOOQ",
+    "ring": "Apprentice",
+    "quadrant": "frameworks and tools",
     "isNew": "FALSE",
     "description": ""
   }
